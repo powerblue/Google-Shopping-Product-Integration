@@ -1,6 +1,6 @@
 # Google-Shopping-Product-Integration
 
-Download the google-product-integration folder, make a .zip file of i, upload the .zip file and install like any plugin.
+Download the google-product-integration folder, make a .zip file of it, upload this .zip file and install like any plugin.
 
 Creates an XML RSS product feed that merchants.google.com can fetch. Since it is XML RSS the feed automatically generated when merchants.google.com fetches it, meaning that merchants.google.com always gets an up-to-date product feed.
 
