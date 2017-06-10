@@ -6,9 +6,9 @@
 /*
 Plugin Name: Google Shopping Product Integration
 Description: Push Woocommerce products to googles shopping service
-Author: John Bland
+Author: Sky43
 Version: 0.1
-Author URI: http://johnisbland.com
+Author URI: http://sky43.com
 */
 
 //Define the product feed php page
